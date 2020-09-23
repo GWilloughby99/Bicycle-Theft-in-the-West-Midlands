@@ -11,7 +11,9 @@ New figures show the West Midlands police force is struggling to finish investig
 Sprocket Cycles is a local bike shop in Birmingham. The owner described the situation as an issue that has been a real problem for "3 or 4 years, possibly longer."
 
 "We get a lot of people in here who do get their bicycles stolen. They are always looking for replacements because they don't want it to happen again.
-Make sure you get a very good lock and get some insurance. When you are buying a lock, you are investing in time. The better the lock, the longer it will take so it will give you a chance."
+Make sure you get a very good lock and get some insurance. 
+
+When you are buying a lock, you are investing in time. The better the lock, the longer it will take so it will give you a chance."
 
 On average, 33% of crimes concluded without an identifiable suspect.
 
