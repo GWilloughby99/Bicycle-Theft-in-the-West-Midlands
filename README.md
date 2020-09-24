@@ -24,6 +24,8 @@ There were 176 cases of bike theft in July, with 159 investigations concluding w
 
 On average, 33% of crimes concluded without an identifiable suspect.
 
+The West Midlands Police could not comment on the figures due to not having the capacity to fulfil student requests.
+
 ### Below is an interactive chart which maps the individual cases of bike theft in the West Midlands
 
 <iframe width="100%" height="520" frameborder="0" src="https://gwilloughby.carto.com/builder/c5dcdd78-9050-4770-882c-8c04a0e2c192/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
